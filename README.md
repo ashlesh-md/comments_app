@@ -30,6 +30,7 @@ This Flutter application is built to showcase fetching comments from an API, int
 - Error handling for backend services (API, Firebase).
 - Form validation for user input.
 - State management using Provider.
+- Showing toast message whenever it's required
 - Cross platform application able to run in Android, IOS, MacOS, Web and Windows
 
 ## Design Specs
@@ -51,7 +52,6 @@ The app follows the design specifications provided in Figma:
 
    ```bash
    git clone <reopository-name>
-   cd comments_app/
    ```
 
 2. Change the directory:
@@ -68,9 +68,9 @@ The app follows the design specifications provided in Figma:
 
 4. Run the application:
 
-```bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 
 ## Firebase Setup
 
@@ -125,3 +125,15 @@ flutter run
 - Utilized Provider for state management and ensured code quality and structure.
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/816f05bc-2cfb-4339-b050-b40c65e799e3" width="480">
+<img src="https://github.com/user-attachments/assets/d932969c-c11d-4c98-9a37-86b12edfead8" width="480">
+<img src="https://github.com/user-attachments/assets/ba06b248-63c5-4ac8-bca9-1f7ab3c02c53" width="480">
+<img src="https://github.com/user-attachments/assets/6101940c-0cc4-4072-b60c-a181599f1388" width="480">
+<img src="https://github.com/user-attachments/assets/eed09da7-36bb-4ce8-a86b-9ff46407e394" width="480">
+<img src="https://github.com/user-attachments/assets/dfd313ac-c2fc-410c-b0ea-84401c5a6ccd" width="480">
+
+
+
+
+
+
